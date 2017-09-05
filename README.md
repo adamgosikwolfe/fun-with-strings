@@ -1,0 +1,1 @@
+A collection of mini programs that manipulate strings.
